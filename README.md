@@ -1,5 +1,5 @@
 # Face_detection_with_python_using_Opencv
-[![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/AjayKBalakrishnan/Face_detection_with_python_using_Opencv/blob/main/detected_faces.png?raw=true)
+![](https://github.com/AjayKBalakrishnan/Face_detection_with_python_using_Opencv/blob/main/detected_faces.png?raw=true)
 
 ## Introduction
 

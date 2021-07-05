@@ -1,7 +1,7 @@
 import cv2 as cv
 face_cascade = cv.CascadeClassifier("haarcascade_frontalface_default.xml")
-path = r'D:\programing\Visual Studio\testimg&video\testvideo1.mp4'
-cap = cv.VideoCapture(path)
+
+cap = cv.VideoCapture("testvideo1.mp4")
 
 while True:
     _,img = cap.read()
